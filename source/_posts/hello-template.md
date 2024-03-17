@@ -10,5 +10,5 @@ title: 我的第一篇博客
 [九年级三班博客](https://ognn.xyz/)
 
 [本博客主题的使用文档](https://hexo.fluid-dev.com/docs/guide/)
-点击标题进入页面赞助我
+[联系我的邮箱](mailto:service@anson.fun)
 ---安心Anson [我的博客](https://ognn.top/)
