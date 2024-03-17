@@ -721,12 +721,11 @@ post:
   # 评论插件
   # Comment plugin
   comments:
-    enable: false
+    enable: true
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
-    type: disqus
-
+    type: changyan
 
 #---------------------------
 # 评论插件
@@ -822,8 +821,8 @@ waline:
 # Based on third-party service, insufficient support for regions outside China
 # http://changyan.kuaizhan.com
 changyan:
-  appid: ''
-  appkey: ''
+  appid: 'cyxcelq3M'
+  appkey: 'prod_92013a8bf7d1806b1430a929728492ad'
 
 # 来必力 Livere
 # 基于第三方的服务
@@ -892,7 +891,7 @@ discuss:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -903,7 +902,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -932,7 +931,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg
   banner_img_height: 80
   banner_mask_alpha: 0.3
   tagcloud:
@@ -949,7 +948,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
@@ -971,7 +970,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: /img/default.png
+  banner_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -982,7 +981,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg
   banner_img_height: 85
   banner_mask_alpha: 0.3
   # 重定向到首页的延迟(毫秒)
@@ -996,7 +995,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   # 友链的成员项
