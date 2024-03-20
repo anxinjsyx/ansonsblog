@@ -14,6 +14,5 @@ title: 我的第一篇博客
 
 [本博客主题的使用文档](https://hexo.fluid-dev.com/docs/guide/)
 [联系我的邮箱](mailto:service@anson.fun)
-同时也欢迎你关注我的第二个博客
-[我的第二个博客](https://xn--49s41h.top/)
+
 ---安心Anson [我的博客](blog.ognn.top)
