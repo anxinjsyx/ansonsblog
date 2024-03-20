@@ -137,4 +137,4 @@ title: 安心丨hexo主题推荐
 [更新至第5页第2个](https://github.com/search?q=hexo-theme&type=repositories&p=5)
 
 [向我投稿](mailto:service@anson.fun?subject=hexo主题投稿)
----安心Anson [我的博客](b1.ognn.top)
+---安心Anson [我的博客](blog.ognn.top)
