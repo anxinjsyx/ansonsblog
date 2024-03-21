@@ -12,14 +12,12 @@ title: 安心丨hexo主题推荐
 [官方使用文档](https://github.com/theme-next/hexo-theme-next/blob/master/docs/zh-CN/INSTALLATION.md)
 评分：***
 
-
 主题名：icarus
 ![网站图片示例](https://s2.loli.net/2024/03/18/jf1UFYzWrbghP6m.png)
 [网站链接](https://ppoffice.github.io/hexo-theme-icarus/)
 [github链接](https://github.com/ppoffice/hexo-theme-icarus)
 [官方使用文档（cn）](https://ppoffice.github.io/hexo-theme-icarus/uncategorized/icarus%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/)
 评分：****
-
 
 主题名：butterfly
 ![网站图片示例](https://s2.loli.net/2024/03/18/rVmz98xY7bRQlaH.png)
@@ -28,14 +26,12 @@ title: 安心丨hexo主题推荐
 [官方使用文档](https://butterfly.js.org/posts/21cfbf15/)
 评分：****
 
-
 主题名：matey丨闪烁之狐
 ![网站图片示例](https://s2.loli.net/2024/03/18/fF3MgrK51j9UD28.png)
 [网站链接](https://blinkfox.github.io/#indexCard)
 [github链接](https://github.com/blinkfox/hexo-theme-matery)
 [官方使用文档](https://github.com/blinkfox/hexo-theme-matery)
 评分：****
-
 
 主题名：fluid
 ![网站图片示例](https://s2.loli.net/2024/03/18/dcmVXpjgkN1DYHs.png)
@@ -44,14 +40,12 @@ title: 安心丨hexo主题推荐
 [官方使用文档](https://hexo.fluid-dev.com/docs/guide/)
 评分：****
 
-
 主题名：cactus
 ![网站图片示例](https://s2.loli.net/2024/03/18/XG38KlpigV1jtTN.png)
 [网站链接](https://probberechts.github.io/hexo-theme-cactus/)
 [github链接](https://github.com/probberechts/hexo-theme-cactus)
 [官方使用文档](https://github.com/probberechts/hexo-theme-cactus)
 评分：****
-
 
 主题名：material
 ![网站图片示例](https://s2.loli.net/2024/03/18/CYLs9vdteQ1fRJp.png)
@@ -60,14 +54,12 @@ title: 安心丨hexo主题推荐
 [官方使用文档](https://neko-dev.github.io/material-theme-docs/#/zh-cn/README)
 评分：****
 
-
 主题名：indigo
 ![网站图片示例](https://s2.loli.net/2024/03/18/cF6AvPJ3SnIyLkR.png)
 [网站链接](https://yscoder.github.io/)
 [github链接](https://github.com/yscoder/hexo-theme-indigo)
 [官方使用文档](https://github.com/yscoder/hexo-theme-indigo/wiki)
 评分：*****
-
 
 主题名：volantis
 ![网站图片示例](https://s2.loli.net/2024/03/18/Cn4oMxfTsN32P5D.png)
@@ -76,14 +68,12 @@ title: 安心丨hexo主题推荐
 [官方使用文档](https://github.com/volantis-x/hexo-theme-volantis)
 评分：*****
 
-
 主题名：tranquilpeak
 ![网站图片示例](https://s2.loli.net/2024/03/18/EZQBJdg5nfLVpFP.png)
 [网站链接](https://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/)
 [github链接](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
 [官方使用文档](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/main/DOCUMENTATION.md)
 评分：*****
-
 
 主题名：ayer
 ![网站图片示例](https://s2.loli.net/2024/03/18/UKHn31uh2ofjxea.png)
@@ -92,14 +82,12 @@ title: 安心丨hexo主题推荐
 [官方使用文档](https://github.com/shen-yu/hexo-theme-ayer)
 评分：*****
 
-
 主题名：aurora
 ![网站图片示例](https://s2.loli.net/2024/03/18/Yc1Z687GLDvqyrU.png)
 [网站链接](https://blog.bennyxguo.com/)
 [github链接](https://github.com/auroral-ui/hexo-theme-aurora)
 [官方使用文档](https://aurora.tridiamond.tech/en/guide/getting-started.html)
 评分：*****
-
 
 主题名：stellar
 ![网站图片示例](https://s2.loli.net/2024/03/18/NJL28f39gWhZOtE.png)
@@ -108,14 +96,12 @@ title: 安心丨hexo主题推荐
 [官方使用文档](https://xaoxuu.com/wiki/stellar/#start)
 评分：*****
 
-
 主题名：Claudia
 ![网站图片示例](https://s2.loli.net/2024/03/18/81ze9LHdmUiGkpw.png)
 [网站链接](https://haojen.github.io/Claudia-theme-blog/)
 [github链接](https://github.com/Haojen/hexo-theme-Claudia)
 [官方使用文档](https://github.com/Haojen/hexo-theme-Claudia)
 评分：*****
-
 
 主题名：Anisina
 ![网站图片示例](https://s2.loli.net/2024/03/18/Q6h7Dw4JLyMsUzZ.png)
@@ -124,17 +110,5 @@ title: 安心丨hexo主题推荐
 [官方使用文档](https://github.com/Haojen/hexo-theme-Anisina?tab=readme-ov-file#quick-start)
 评分：*****
 
-
->主题名：
->![网站图片示例]()
->[网站链接]()
->[github链接]()
->[官方使用文档]()
->评分：*****
-
-
-持续更新中。。。
-[更新至第5页第2个](https://github.com/search?q=hexo-theme&type=repositories&p=5)
-
 [向我投稿](mailto:service@anson.fun?subject=hexo主题投稿)
----安心Anson [我的博客](blog.ognn.top)
+---安心Anson [我的博客](b4.ognn.top)

@@ -5,4 +5,4 @@ title: 安心丨我的其他博客
 [安心的二号博客（中文版）](https://b2.ognn.xyz/)
 [安心的二号博客（英文版）](https://b3.ognn.xyz/)
 
----安心Anson [我的博客](blog.ognn.top)
+---安心Anson [我的博客](b4.ognn.top)

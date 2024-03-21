@@ -22,4 +22,4 @@ title: 如何使用clash
 同时欢迎你添加我的telegram好友
 [点击添加](https://t.me/uogkrx)
 
----安心Anson [我的博客](blog.ognn.top)
+---安心Anson [我的博客](b4.ognn.top)
