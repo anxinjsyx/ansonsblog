@@ -1035,8 +1035,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '<hr><p>联系我的邮箱加入我的友链（关于页面中联系我）</p><ul><li>博客名：安心的博客</li><li>简介：安心的博客分享我想分享的内容</li><li>链接：https://ognn.top/</li><li>图片：https://s2.loli.net/2024/03/18/qWmPAHUN2EeKxcr.png</li></ul>'
-
+    content: '<p>联系我的邮箱加入我的友链</p><a href="mailto:service@anson.fun?subject=友链添加申请" target="_blank" rel="nofollow noopener"><span>点击我联系邮箱</span></a><hr><ul><li>博客名：安心的博客</li><li>简介：安心的博客分享我想分享的内容</li><li>链接：https://ognn.top/</li><li>图片：https://s2.loli.net/2024/03/18/qWmPAHUN2EeKxcr.png</li></ul>'
   # 评论插件
   # Comment plugin
   comments:
