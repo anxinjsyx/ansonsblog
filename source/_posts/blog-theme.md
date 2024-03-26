@@ -2,10 +2,6 @@
 title: hexo主题推荐
 excerpt: 安心的博客使用的主题是hexo，他们的主题安心整理了几个
 date: 2024-04-26 21:00:00
-hide: false
-archive: true
-sticky:  95
-index_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg #文章在首页的封面图
 tags: [hexo]
 ---
 

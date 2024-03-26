@@ -1,11 +1,7 @@
 ---
 title: 免费二级域名使用
-excerpt: 
+excerpt: 免费使用二级域名
 date: 2024-04-26 21:00:00
-hide: false
-archive: true
-sticky: 99
-index_img: 
 tags: [发布]
 ---
 

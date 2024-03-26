@@ -1,9 +1,7 @@
 ---
 title: 我的其他博客
-excerpt: 
+excerpt: 其它博客
 date: 2024-04-26 21:00:00
-hide: false
-archive: true
 sticky: 100
 index_img: 
 tags: []
