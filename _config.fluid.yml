@@ -423,26 +423,13 @@ footer:
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
-    <br><a href="mailto:service@anson.fun" target="_blank" rel="nofollow noopener"><span>Copyright © 2024 安心Anson All Rights Reserved. 安心 版权所有</span></a></br>
-    <script type="text/javascript">
-      function show_runtime() {
-        window.setTimeout("show_runtime()", 1000);
-        X = new Date("3/10/2024 00:00:00");
-        Y = new Date();
-        T = (Y.getTime() - X.getTime());
-        M = 24 * 60 * 60 * 1000;
-        a = T / M;
-        A = Math.floor(a);
-        b = (a - A) * 24;
-        B = Math.floor(b);
-        c = (b - B) * 60;
-        C = Math.floor((b - B) * 60);
-        D = Math.floor((c - C) * 60);
-      runtime_span.innerHTML = "本博客已运行: " + A + "天" + B + "小时" + C + "分" + D + "秒"
-    }
-    show_runtime();
-    </script>
-    <span id="runtime_span"></span>
+    <br><a href="https://icp.gov.moe/?keyword=20241008" target="_blank">萌ICP备20241008号</a></br>
+    <a href="mailto:service@anson.fun" target="_blank" rel="nofollow noopener"><span>Copyright © 2024 安心Anson All Rights Reserved. 安心 版权所有</span></a>
+    <div style="font-size: 0.85rem">
+      <span id="timeDate">载入天数...</span>
+      <span id="times">载入时分秒...</span>
+      <script src="/js/duration.js"></script>
+    </div>
   '
 
   # 展示网站的 PV、UV 统计数
@@ -970,15 +957,20 @@ about:
   banner_img: https://s2.loli.net/2024/03/17/EvCwYoISrLp1sAN.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: /img/avatar.png
-  name: "Fluid"
-  intro: "An elegant theme for Hexo"
+  avatar: https://s2.loli.net/2024/03/18/qWmPAHUN2EeKxcr.png
+  name: "安心Anson"
+  intro: "一个喜欢摄影，科技和好多好多东西的人，欢迎来聊天"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
-    - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
-    - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "https://s2.loli.net/2024/03/27/eInLBAwgO8FVQrP.jpg" }
+    - { class: "iconfont icon-qq-fill", qrcode: "https://s2.loli.net/2024/03/27/GsEPHArToLfuFVp.jpg" }
+    - { class: "iconfont icon-twitter-fill", link: "https://twitter.com/Anson_Quu", tip: "Twitter" }
+    - { class: "iconfont icon-telegram-fill", link: "https://t.me/uogkrx", tip: "Telegram" }
+    - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/1468582841", tip: "bilibili" }
+    - { class: "iconfont icon-mail", link: "mailto:service@anson.fun", tip: "Mail" }
+    - { class: "iconfont icon-wechat2-fill", qrcode: "https://s2.loli.net/2024/03/16/bRUa71GeCWP6DgF.jpg" }
+    - { class: "iconfont icon-alipay-fill", qrcode: "https://s2.loli.net/2024/03/27/8fa7Z4Jcd3pInQ6.jpg" }
 
 
 #---------------------------
@@ -1026,7 +1018,30 @@ links:
       link: 'https://tomzhao.xyz/',
       avatar: 'https://tomzhao.xyz/favicon.ico'
     }
-
+    - {
+      title: '雨墨研究室',
+      intro: '一个平平无奇的研究室，分享动漫，游戏，技术，还有快乐',
+      link: 'https://www.yumoyjs.cn',
+      avatar: 'https://cravatar.cn/avatar/35cc9db15ad2745d41b14fc60f1f85ec?s=96&d=mm&r=g'
+    }
+    - {
+      title: 小扎仙森',
+      intro: '一往情深深几许',
+      link: 'https://www.lplovemm.love',
+      avatar: 'https://www.lplovemm.love/wp-content/uploads/2023/12/template.ico'
+    }
+    - {
+      title: 'mail_set 的铺子',
+      intro: '只是一个博客',
+      link: 'https://www.mailset.top',
+      avatar: 'https://www.mailset.top/img/favicon.png'
+    }
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
   onerror_avatar: /img/avatar.png
