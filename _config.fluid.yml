@@ -791,8 +791,8 @@ gitalk:
 # Based on LeanCloud
 # See: https://valine.js.org/
 valine:
-  appId:
-  appKey:
+  appId: IacD8L7g5vfKkPnWA0iAN6uh-MdYXbMMI
+  appKey: KWnUKkRXnE4MH1Cv74WGCzIr
   path: window.location.pathname
   placeholder:
   avatar: 'retro'
@@ -963,7 +963,7 @@ about:
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
-    - { class: "iconfont icon-wechat-fill", qrcode: "https://s2.loli.net/2024/03/27/eInLBAwgO8FVQrP.jpg" }
+    #- { class: "iconfont icon-wechat-fill", qrcode: "https://s2.loli.net/2024/03/27/eInLBAwgO8FVQrP.jpg" }
     - { class: "iconfont icon-qq-fill", qrcode: "https://s2.loli.net/2024/03/27/GsEPHArToLfuFVp.jpg" }
     - { class: "iconfont icon-twitter-fill", link: "https://twitter.com/Anson_Quu", tip: "Twitter" }
     - { class: "iconfont icon-telegram-fill", link: "https://t.me/uogkrx", tip: "Telegram" }
@@ -971,6 +971,7 @@ about:
     - { class: "iconfont icon-mail", link: "mailto:service@anson.fun", tip: "Mail" }
     - { class: "iconfont icon-wechat2-fill", qrcode: "https://s2.loli.net/2024/03/16/bRUa71GeCWP6DgF.jpg" }
     - { class: "iconfont icon-alipay-fill", qrcode: "https://s2.loli.net/2024/03/27/8fa7Z4Jcd3pInQ6.jpg" }
+    - { class: "iconfont icon-telegram-fill", link: "https://t.me/Ansons_blog", tip: "Telegram频道" }
 
 
 #---------------------------
