@@ -111,4 +111,4 @@ title: 安心丨hexo主题推荐
 评分：*****
 
 [向我投稿](mailto:service@anson.fun?subject=hexo主题投稿)
----安心Anson [我的博客](b4.ognn.top)
+---安心Anson [我的博客](ognn.top)

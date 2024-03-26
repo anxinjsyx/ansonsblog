@@ -15,4 +15,4 @@ title: 我的第一篇博客
 [本博客主题的使用文档](https://hexo.fluid-dev.com/docs/guide/)
 [联系我的邮箱](mailto:service@anson.fun)
 
----安心Anson [我的博客](b4.ognn.top)
+---安心Anson [我的博客](ognn.top)

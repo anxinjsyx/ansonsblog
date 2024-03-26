@@ -8,3 +8,5 @@ date: 2024-03-26 07:26:20
 [邮箱](mailto:service@anson.fun)
 [telegram](https://t.me/uogkrx)
 如果想要其他的欢迎联系邮箱获取
+
+---安心Anson [我的博客](ognn.top)
