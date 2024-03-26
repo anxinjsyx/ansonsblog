@@ -2,6 +2,7 @@
 title: 关于
 date: 2024-03-26 07:26:20
 layout: about
+comment: 'waline'
 ---
 你好这里是安心
 欢迎来聊天！
