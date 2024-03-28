@@ -5,8 +5,8 @@ layout: about
 comment: 'waline'
 ---
 # 社交链接表格
-|QQ好友|Twitter|Telegram好友|Telegram频道|bilibili频道|邮箱联系我|微信支付|支付宝|爱发电|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|微信|QQ好友|Facebook|Twitter|Telegram好友|Telegram频道|Discord频道|bilibili频道|邮箱联系我|微信支付|支付宝|爱发电|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 # 介绍
 你好这里是安心

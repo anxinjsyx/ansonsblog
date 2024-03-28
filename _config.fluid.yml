@@ -344,9 +344,9 @@ navbar:
     - { key: "主页", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "所有内容", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
-    - { key: "关于", link: "/about/", icon: "iconfont icon-user-fill" }
-    - { key: "友链", link: "/links/", icon: "iconfont icon-link-fill" }
     - { key: "我的视频", link: "/video/", icon: "iconfont icon-youtube-fill" }
+    - { key: "友链", link: "/links/", icon: "iconfont icon-link-fill" }
+    - { key: "关于", link: "/about/", icon: "iconfont icon-user-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
@@ -964,11 +964,14 @@ about:
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
-    #- { class: "iconfont icon-wechat-fill", qrcode: "https://s2.loli.net/2024/03/27/eInLBAwgO8FVQrP.jpg" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "https://s2.loli.net/2024/03/27/eInLBAwgO8FVQrP.jpg" }
     - { class: "iconfont icon-qq-fill", qrcode: "https://s2.loli.net/2024/03/27/GsEPHArToLfuFVp.jpg" }
+    - { class: "iconfont icon-facebook-fill", link: "https://www.facebook.com/profile.php?id=61555289674732", tip: "Facebook" }
     - { class: "iconfont icon-twitter-fill", link: "https://twitter.com/Anson_Quu", tip: "Twitter" }
+    - { class: "iconfont icon-instagram-fill", link: "https://www.instagram.com/anson.quu/", tip: "Instagram" }
     - { class: "iconfont icon-telegram-fill", link: "https://t.me/uogkrx", tip: "Telegram" }
     - { class: "iconfont icon-users", link: "https://t.me/Ansons_blog", tip: "Telegram频道" }
+    - { class: "iconfont icon-discord-fill", link: "https://discord.gg/g5Bg5d6k", tip: "Discord" }
     - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/1468582841", tip: "bilibili" }
     - { class: "iconfont icon-mail", link: "mailto:service@anson.fun", tip: "Mail" }
     - { class: "iconfont icon-wechat2-fill", qrcode: "https://s2.loli.net/2024/03/16/bRUa71GeCWP6DgF.jpg" }
@@ -1063,8 +1066,6 @@ links:
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
     type: waline
-
-
 
 #---------------------------
 # 以下是配置 JS CSS 等静态资源的 URL 前缀，可以自定义成 CDN 地址，
