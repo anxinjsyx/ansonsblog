@@ -7,4 +7,4 @@ tags: [发布]
 我们终于开通了评论啦！
 **我们打算在域名转入完成后吧ognn.top域名转换为anson.asia域名，请知悉**
 
----安心Anson [我的博客](ognn.top)
+---安心Anson [我的博客](https://blog.anson.asia/)

@@ -9,4 +9,4 @@ tags: [发布]
 ![！！！](https://s2.loli.net/2024/03/28/xtENJBvKFeDoAjg.png)
 以后朋友们可以记下我的主页所有的就都在了，或者下次把我的博客关于页搞过去
 
----安心Anson [我的博客](ognn.top)
+---安心Anson [我的博客](https://blog.anson.asia/)
