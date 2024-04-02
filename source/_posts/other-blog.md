@@ -12,9 +12,8 @@ tags: [发布]
 
 **我的其它博客**
 [安心的博客（同时是现在的）](https://ognn.top/)
-[安心的一号博客（中文版）](https://blog.ognn.xyz/)
-[安心的二号博客（中文版）](https://b2.ognn.xyz/)
-[安心的三号博客（英文版）](https://b3.ognn.xyz/)
+[安心的博客（中文版）](https://oxnn.cn/)
+[安心的博客（英文版）](https://eng.oxnn.cn/)
 
 [同时也欢迎加入我的Telegram频道](https://t.me/Ansons_blog)
 ---安心Anson [我的博客](https://blog.anson.asia/)
