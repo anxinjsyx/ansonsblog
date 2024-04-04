@@ -978,7 +978,7 @@ about:
     - { class: "iconfont icon-mail", link: "mailto:service@anson.fun", tip: "Mail2" }
     - { class: "iconfont icon-wechat2-fill", qrcode: "https://s2.loli.net/2024/03/16/bRUa71GeCWP6DgF.jpg" }
     - { class: "iconfont icon-alipay-fill", qrcode: "https://s2.loli.net/2024/03/27/8fa7Z4Jcd3pInQ6.jpg" }
-    - { class: "iconfont icon-note", link: "https://afdian.net/a/anxin_anson", tip: "爱发电" }
+    - { class: "iconfont icon-alipay-fill", link: "https://afdian.net/a/anxin_anson", tip: "爱发电" }
     
 
 
