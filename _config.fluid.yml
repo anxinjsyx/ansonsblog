@@ -1071,17 +1071,17 @@ links:
     }
 
     - {
-      title: '',
-      intro: '',
-      link: '',
-      avatar: ''
+      title: '安知鱼',
+      intro: '（未添加）生活明朗，万物可爱',
+      link: 'https://blog.anheyu.com/',
+      avatar: 'https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg'
     }
 
     - {
-      title: '',
-      intro: '',
-      link: '',
-      avatar: ''
+      title: '微生之最',
+      intro: '（未添加）用技术改变世界',
+      link: 'https://www.bbixb.top',
+      avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1748326225&s=640'
     }
 
     - {
