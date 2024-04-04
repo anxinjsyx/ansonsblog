@@ -1034,29 +1034,50 @@ links:
       link: 'https://www.yumoyjs.cn',
       avatar: 'https://cravatar.cn/avatar/35cc9db15ad2745d41b14fc60f1f85ec?s=96&d=mm&r=g'
     }
-    
-    - {
-      title: 小扎仙森',
-      intro: '一往情深深几许',
-      link: 'https://www.lplovemm.love',
-      avatar: 'https://www.lplovemm.love/wp-content/uploads/2023/12/template.ico'
-    }
 
     - {
       title: 'mail_set 的铺子',
-      intro: '只是一个博客',
+      intro: '只是一个博客（未添加）',
       link: 'https://www.mailset.top',
       avatar: 'https://www.mailset.top/img/favicon.png'
     }
 
     - {
       title: 'Lemon’s Blog',
-      intro: '一个少年的博客',
+      intro: '一个少年的博客（未添加）',
       link: 'https://ning0818.cn',
       avatar: 'https://jsd.onmicrosoft.cn/gh/ning0818/CDN-Files/logo.webp'
     }
 
     - {
+      title: '起点小栈',
+      intro: '起点小栈是一个实用的资源分享平台，致力于为广大用户提供更优质的网络资源和信息！（未添加）',
+      link: 'https://www.ziyu.pro',
+      avatar: 'https://www.ziyu.pro/wp-content/themes/zibll/img/favicon.png'
+    }
+
+    - {
+      title: 'hyakutake',
+      intro: '嫌われる勇気（未添加）',
+      link: 'https://hi.hyakutake.site/',
+      avatar: 'https://api.hyakutake.site/api/v2/objects/avatar/bur6h96l93m7baolwm.jpg'
+    }
+
+    - {
+      title: 'CheesiT ‘s blog',
+      intro: '淡泊以明志，宁静而致远.（未添加）',
+      link: 'https://armeo.org/',
+      avatar: 'https://armeo.org/avatar/avatar.jpg'
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
       title: '',
       intro: '',
       link: '',
@@ -1077,6 +1098,96 @@ links:
       avatar: ''
     }
 
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
+
+    - {
+      title: '',
+      intro: '',
+      link: '',
+      avatar: ''
+    }
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
   onerror_avatar: /img/avatar.png
