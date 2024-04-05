@@ -343,7 +343,8 @@ navbar:
   menu:
     - { key: "主页", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "所有内容", link: "/archives/", icon: "iconfont icon-archive-fill" }
-    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: "标签", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: "我的照片", link: "/img/", icon: "iconfont icon-image" }
     - { key: "我的视频", link: "/video/", icon: "iconfont icon-youtube-fill" }
     - { key: "友链", link: "/links/", icon: "iconfont icon-link-fill" }
     - { key: "关于", link: "/about/", icon: "iconfont icon-user-fill" }
