@@ -1023,6 +1023,20 @@ links:
   # Member item of page
   items:
     - {
+      title: '安心的主页',
+      intro: '安心的主页',
+      link: 'https://oxnn.cn/',
+      avatar: 'https://s2.loli.net/2024/03/18/qWmPAHUN2EeKxcr.png'
+    }
+
+    - {
+      title: '安心的通知博客',
+      intro: '安心的通知发布博客',
+      link: 'https://blog.anson.fun/',
+      avatar: 'https://s2.loli.net/2024/03/18/qWmPAHUN2EeKxcr.png'
+    }
+
+    - {
       title: 'Tom_Zhaos',
       intro: 'Tom_zhao所提供的服务列表',
       link: 'https://tomzhao.xyz/',
